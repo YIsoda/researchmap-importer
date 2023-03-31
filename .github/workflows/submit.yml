@@ -6,6 +6,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+    - run: echo "Edit workflow for yarn node-modules mode!"
       # - uses: actions/checkout@v3
       # - name: Cache pnpm modules
       #   uses: actions/cache@v3
