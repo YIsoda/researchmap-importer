@@ -1,3 +1,9 @@
+# Researchmap Importer Browser Extension
+
+_Todo: Add readme contents here._
+
+---
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
